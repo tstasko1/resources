@@ -73,18 +73,18 @@ There are no required texts for this course. All course material will be present
 - Term Project 25%
 - Exam 25%
 
-| Grade |  Range   |
-| :---: | :------: |
-|   A   |  94-100  |
-|  A-   | 90-93.99 |
-|  B+   | 87-89.99 |
-|   B   | 84-86.99 |
-|  B-   | 80-83.99 |
-|  C+   | 77-79.99 |
-|   C   | 74-76.99 |
-|  C-   | 70-73.99 |
-|   D   | 60-69.99 |
-|   F   | 0-59.99  |
+| Grade | Range    |
+| :---- | :------- |
+| A     | 94-100   |
+| A-    | 90-93.99 |
+| B+    | 87-89.99 |
+| B     | 84-86.99 |
+| B-    | 80-83.99 |
+| C+    | 77-79.99 |
+| C     | 74-76.99 |
+| C-    | 70-73.99 |
+| D     | 60-69.99 |
+| F     | 0-59.99  |
 
 ## Private Repository for the Course
 
@@ -96,7 +96,7 @@ The term project is an individual website development effort, which involves the
 
 ## Graded Homework
 
-There will be a total of 4-5 homework-assignments that are graded. Each is to be submitted by 11:59 pm on the due dates, which will be specified in the instruction document that accompanies each assignment. Five points will be deducted for each day or partial day that an assignment is late up to four days. The grade for any assignment submitted more than four days late will be zero. Extensions may be granted at the discretion of the instructor if requested in advance. Assignments are considered to be **individual** activities. If you require help, please contact the instructor. Your assignment repositories created under course [GitHub](https://github.com/OIM3690) may be modified/deleted after semester ends.
+There will be a total of 4-5 homework-assignments that are graded. Each is to be submitted by 11:59 pm on the due dates, which will be specified in the instruction document that accompanies each assignment. **10 points** will be deducted for each day or partial day that an assignment is late up to four days. The grade for any assignment submitted more than four days late will be zero. Extensions may be granted at the discretion of the instructor if requested in advance. Assignments are considered to be **individual** activities. If you require help, please contact the instructor. Notice: Your assignment repositories created under course [GitHub](https://github.com/OIM3690) (not your own private repositories) may be modified/deleted by the instructor after semester ends.
 
 ## In-Class Exercises
 
@@ -120,7 +120,7 @@ There will be one exam in the last class. The exam is hands-on, open book, open 
 
   Academic integrity is important for two reasons. First, independent and original scholarship ensures that students derive the most they can from their educational experience and the pursuit of knowledge. Second, academic misconduct violates the most fundamental values of an intellectual community and diminishes the achievements of the entire college community. Accordingly, Babson views academic misconduct as one of the most serious violations of the College’s expectations that a student can commit while at Babson College. Specific behaviors that constitute academic misconduct, as defined in the Code, are **cheating, fabrication, facilitating academic dishonesty, plagiarism, participation in academically dishonest activities, and unauthorized collaboration.** In the instance I am presented with evidence to suggest that you engaged in any of these behaviors, I will refer the incident to the [Office of Community Standards](https://www.babson.edu/student-life/community-standards/) for review.  
 
-  For your coursework, you are required to affirm your understanding of and commitment to the academic honesty and integrity expectations set forth in the Code. You will be asked to write the following pledge on every exam, paper, project, or other academic exercise:
+  For your coursework, you are required to affirm your understanding of and commitment to the academic honesty and integrity expectations set forth in the Code. You may be asked to write the following pledge on every exam, paper, project, or other academic exercise:
 
       “I have abided by the Babson Code of Ethics in this work and pledge to be better than that which would compromise my integrity.” 
 
