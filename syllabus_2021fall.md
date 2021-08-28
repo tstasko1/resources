@@ -2,12 +2,12 @@
 
 ## Time and Address
 - Online Class Time: Monday, Wednesday, 8:00PM - 9:30PM
-- Online Class Platform: Zoom (check Canvas for Zoom link and password)
+- Online Class Platform: Webex (check Canvas for Webex link)
 
 
 ## Class Modes
-- Mode 1: **LIVE** (default) - Zoom class will be conducted and recorded. Recording link will be posted to Canvas.
-- Mode 2: **ASYNC** - Zoom will be open during class times as "live check-in" and/or office hours.
+- Mode 1: **LIVE** (default) - Webex class will be conducted and recorded. Recording link will be posted to Canvas.
+- Mode 2: **ASYNC** - Webex will be open during class times as "live check-in" and/or office hours.
 
 
 ## Instructor Information
@@ -63,7 +63,7 @@ There are no required texts for this course. All course material will be present
   
 ### Text Editors
 
-- [VS Code](https://code.visualstudio.com) (Recommended)
+- [VS Code](https://code.visualstudio.com)
 
 ## Grading
 
@@ -96,7 +96,7 @@ The term project is an individual website development effort, which involves the
 
 ## Graded Homework
 
-There will be a total of 4-5 homework-assignments that are graded. Each is to be submitted by 11:59 pm on the due dates, which will be specified in the instruction document that accompanies each assignment. **10 points** will be deducted for each day or partial day that an assignment is late up to four days. The grade for any assignment submitted more than four days late will be zero. Extensions may be granted at the discretion of the instructor if requested in advance. Assignments are considered to be **individual** activities. If you require help, please contact the instructor. Notice: Your assignment repositories created under course [GitHub](https://github.com/OIM3690) (not your own private repositories) may be modified/deleted by the instructor after semester ends.
+There will be a total of 4-5 homework-assignments that are graded. Each is to be submitted by 11:59 pm on the due dates, which will be specified in the instruction document that accompanies each assignment. **10 points** will be deducted for each day or partial day that an assignment is late up to four days. The grade for any assignment submitted more than four days late will be zero. Extensions may be granted at the discretion of the instructor if requested in advance. Assignments are considered to be **individual** activities. If you require help, please contact the instructor. Notice: Your assignment repositories created under course [GitHub](https://github.com/OIM3690) (not your own private repositories) may be modified/removed by the instructor after semester ends.
 
 ## In-Class Exercises
 
