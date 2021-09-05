@@ -57,7 +57,7 @@ To start your project, you need to create a **new public** repository in GitHub.
 ## Project Proposal
 
 - Due: **Wednesday 9/22/2021, by 11:59 PM**
-- This first version is worth **5 points**.
+- This proposal is worth **5 points**.
 
 This is a webpage that answers the following questions:
 
@@ -97,7 +97,7 @@ As you think through your website, please remember that the website must have at
 ## Project Website Planning
 
 - Due **Sunday 10/10/2021, by 11:59 PM**
-- This part is worth 5 points.
+- This part is worth 3 points.
 
 ### What you need to do:
 1. Read [Planning a simple website](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website).
@@ -117,7 +117,7 @@ As you think through your website, please remember that the website must have at
 ## Project First Version
 
 - Due **Wednesday 10/10/2021, by 11:59 PM**
-- This first version is worth **50 points**.
+- This first version is worth **45 points**.
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
@@ -154,7 +154,7 @@ This must be your complete website, including all of the content that you expect
 ## Project Final Version
 
 - Due **Friday 12/10/2021, by 11:59 PM**
-- This deliverable is worth **40 points**.
+- This deliverable is worth **44 points**.
 
 The final version of the project must have the full set of project files on GitHub and linked to _sitemap.html_ in _WebTech_ repository (both GitHub URL and website domain). If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
@@ -169,6 +169,7 @@ The final version of the project must have the full set of project files on GitH
   - Change image(s) using mouseover and mouseout. 
   - Present a slide-show. (optional, but recommended)
   - Animate something or add some other functionalities besides what is listed above. 
+- At least Two pages (including homepage) are mobile compatible.
 - Responses to peer review feedback
 
 ### Submission:
