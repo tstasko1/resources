@@ -116,7 +116,7 @@ As you think through your website, please remember that the website must have at
 
 ## Project First Version
 
-- Due **Wednesday 10/10/2021, by 11:59 PM**
+- Due **Wednesday 11/3/2021, by 11:59 PM**
 - This first version is worth **45 points**.
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
