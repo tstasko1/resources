@@ -95,6 +95,7 @@ As you think through your website, please remember that the website must have at
 
 ---
 ## Project Website Planning
+
 - Due **Sunday 10/10/2021, by 11:59 PM**
 - This part is worth 5 points.
 
@@ -104,6 +105,12 @@ As you think through your website, please remember that the website must have at
    1. Draw a sketch of your project homepage (index.html) as step 2 in the [article](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website). Use any tool such as figma.com, moqups.com, or PowerPoint, or even simply draw on a paper and take a photo.
    2. Create a rough sitemap as step 5 in the [article](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#Planning_a_simple_website).
 
+
+### Submission:
+
+- Save all the files.
+- **_Commit/push_** to GitHub.
+- Create tag `'plan'` for current release. Learn more on [Managing releases in a repository](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository).
 
 ---
 
