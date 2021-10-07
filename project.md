@@ -89,8 +89,8 @@ As you think through your website, please remember that the website must have at
 
 ### Submission:
 
-- Link your own domain to GitHub pages of project repository. Add Description and Website to your project repository on GitHub (see below).
-![](https://i.imgur.com/QAhOGVJ.gif)
+- Link your own domain to GitHub pages of project repository. Add [Description and Website](https://stackoverflow.com/a/64942409/941742) to your project repository on GitHub.
+
 - Submit the URL of your website to Canvas.
 
 ---
@@ -181,4 +181,4 @@ The final version of the project must have the full set of project files on GitH
 
 
 ---
-*updated: 9/16/2021*
+*updated: 10/07/2021*
