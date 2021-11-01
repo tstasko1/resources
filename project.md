@@ -138,7 +138,7 @@ This must be your complete website, including all of the content that you expect
   - Navigation bar that is located in the same place on each page. 
   - Links to the sitemap page and the contact/feedback page available from the navigation bar or from links at the bottom of the page.
 - Create a [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and add it to your site. See [how to](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) and [online favicon generator](https://favicon.io/). 
-- Attention to SEO principles. Check out `<meta>` part in 
+- Attention to SEO principles. Check out `<meta>` part in [lec10-publish-website](https://github.com/OIM3690/resources/blob/main/slides/lec10-publish-website.pdf).
 - Look and feel of your site (use of colors, fonts, backgrounds and consistency of styles across the pages) 
   - This is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on all the styles.
 
@@ -181,4 +181,4 @@ The final version of the project must have the full set of project files on GitH
 
 
 ---
-*updated: 10/07/2021*
+*updated: 11/01/2021*
