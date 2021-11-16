@@ -14,7 +14,7 @@
 | Kai          | Lightner         | https://github.com/klightner1/Project                 | https://sportclimbing.rocks/             | 5     |
 | Tengyue      | Liu              | https://github.com/nicenickliu/Project                | https://crafteddrink.me/                 | 1     |
 | Kevin        | Liu              | https://github.com/Kevinlyk2000/Project               | https://kevinliuchina.me/                | 2     |
-| Allegra      | McDermott        | https://github.com/allegramcd/allegramcd.github.io    | https://allegramcd.github.io (temporary) | 2     |
+| Allegra      | McDermott        | https://github.com/allegramcd/allegrassilks.me        | http://allegrassilks.me/ (temporary) | 2     |
 | Mateos       | Norian           | https://github.com/MateosNorian/PokerHands            | https://pokerhands-f69fa.web.app/        | 5     |
 | Runze        | Ouyang           | https://github.com/chloeouyang/coursehunter           | https://www.coursehunter.software/       | 2     |
 | Sumukh       | Setty            | https://github.com/ssetty767/Project                  | https://cricketgames.website             | 2     |
