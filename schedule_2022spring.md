@@ -9,9 +9,9 @@
 |    05     | 2/01  | Lists<br>More on CSS                                 |                           |                        |
 |    06     | 2/03  | `id`, `class`<br>Advanced CSS                        | **Due**: HW1              |                        |
 |    07     | 2/08  | External and Inline CSS                              |                           |                        |
-|    08     | 2/10  | Tables                                               |                           |                        |
+|    08     | 2/10  | Tables                                               | **Due**: Project Proposal |                        |
 |    09     | 2/15  | Forms                                                | **Available**: HW2        | **Quiz**: CSS          |
-|    10     | 2/17  | How Web Works<br>Web Design<br>Web Analytics         | **Due**: Project Proposal |                        |
+|    10     | 2/17  | How Web Works<br>Web Design<br>Web Analytics         |                           |                        |
 |    11     | 2/24  | Publishing Website                                   |                           |                        |
 |    12     | 3/01  | Multimedia<br>More on HTML5                          | **Due**: HW2 (Friday)     |                        |
 |    13     | 3/03  | Introduction to JavaScript<br>                       |                           |                        |
@@ -31,4 +31,4 @@
 |           | 4/31  |                                                      | **Due**: Term Project     |                        |
 
 
-*updated: 1/15/2022*
+*updated: 2/02/2022*
