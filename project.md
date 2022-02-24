@@ -79,7 +79,7 @@ As you think through your website, please remember that the website must have at
 ---
 ## Project Website Domain
 
-- Due **Thursday 2/24/2022, by 11:59 PM**.
+- Due **Thursday 3/03/2022, by 11:59 PM**.
 - This part is worth 3 points.
 
 ### What you need to do:
@@ -96,7 +96,7 @@ As you think through your website, please remember that the website must have at
 ---
 ## Project Website Planning
 
-- Due **Sunday 2/20/2022, by 11:59 PM**
+- Due **Sunday 2/27/2022, by 11:59 PM**
 - This part is worth 3 points.
 
 ### What you need to do:
@@ -181,4 +181,4 @@ The final version of the project must have the full set of project files on GitH
 
 
 ---
-*updated: 1/30/2022*
+*updated: 2/20/2022*
