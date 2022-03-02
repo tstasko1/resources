@@ -116,7 +116,7 @@ As you think through your website, please remember that the website must have at
 
 ## Project First Version
 
-- Due **Monday 3/27/2022, by 11:59 PM**
+- Due **Sunday 3/27/2022, by 11:59 PM**
 - This first version is worth **45 points**.
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
@@ -138,7 +138,7 @@ This must be your complete website, including all of the content that you expect
   - Navigation bar that is located in the same place on each page. 
   - Links to the sitemap page and the contact/feedback page available from the navigation bar or from links at the bottom of the page.
 - Create a [favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) and add it to your site. See [how to](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) and [online favicon generator](https://favicon.io/). 
-- Attention to SEO principles. Check out `<meta>` part in 
+- Attention to SEO principles. Check out `<meta>` part in [slides - publish website](https://github.com/OIM3690/resources/blob/main/slides/lec10-publish-website.pdf).
 - Look and feel of your site (use of colors, fonts, backgrounds and consistency of styles across the pages) 
   - This is a relative assessment and is based on how well you have used the combination of external style sheet and internal styles to provide consistency across pages and to differentiate individual pages, in addition to the cheerful and welcoming feel that the website creates based on all the styles.
 
@@ -181,4 +181,4 @@ The final version of the project must have the full set of project files on GitH
 
 
 ---
-*updated: 2/20/2022*
+*updated: 3/02/2022*
