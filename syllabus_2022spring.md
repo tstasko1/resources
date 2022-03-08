@@ -3,7 +3,7 @@
 ## Datetime and Address
 - Class Time: Tuesday, Thursday
   - Section 02: 9:45AM - 11:15AM, Horn Computer Center 170
-  - Section 03: 1:15PM -  2:45PM, Babson 326
+  - Section 03: 1:15PM -  2:45PM, Horn Computer Center 170
 - Online Class Platform: Webex (check Canvas for Webex link)
 
 ## Instructor Information
@@ -11,7 +11,7 @@
 - Instructor: Dr. Zhi Li
 - E-mail: [zli@babson.edu](mailto:zli@babson.edu)
 - Office Hours:
-  - IN-PERSON: Tuesday, Thursday 6:15PM-7PM, Babson 326
+  - IN-PERSON: Tuesday, Thursday 6:15PM-7PM, Horn Computer Center 170
   - ONLINE: Webex by appointment
 
 ## Communication
