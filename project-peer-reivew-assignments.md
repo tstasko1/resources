@@ -31,8 +31,8 @@
 | Lukas Lloreda           | [Lauren Gold](https://github.com/laurenngold/WebTech-Project)                       | [Alexander Rosemond](https://github.com/arosemond1/WebTech_project)                 |
 | Laura Ghouzi            | [Lleyton Hornig](https://github.com/LleytonHornig/Project)                          | [Neary Liu](https://github.com/20donkey/Term-project)                               |
 | Jonathan Gergis         | [Arjun Kaushik](https://github.com/ArjunKaushik1/Project)                           | [Reyhan Narula](https://github.com/reynarula10/Project-Proposal)                    |
-| Avi Ni                  | [Max Kern](https://github.com/theMaxK/Project-Repository)                           | [Jonathan Cavazos](https://github.com/jonathancavazos/webproject)                   |
-| Yuwei Zheng             | [Justin Langway](https://github.com/Jlangway1/WebTech-Project)                      | [Yuwei Zheng](https://github.com/ywzheng2/OIM3690-Term-Project)                     |
+| Avi Ni                  | [Max Kern](https://github.com/theMaxK/Project-Repository)                           | [Yuwei Zheng](https://github.com/ywzheng2/OIM3690-Term-Project)                     |
+| Yuwei Zheng             | [Justin Langway](https://github.com/Jlangway1/WebTech-Project)                      | [Jonathan Cavazos](https://github.com/jonathancavazos/webproject)                   |
 | Rishav Modi             | [Neary Liu](https://github.com/20donkey/Term-project)                               | [Hillary Yaory](https://github.com/hillaryyaory/ProjectWebTech)                     |
 | Annabelle Utama         | [Lukas Lloreda](https://github.com/llloreda1/Project-Repository)                    | [Lachlan Weyers](https://github.com/LJW9/TermProject)                               |
 | Kyle Sanborn            | [Jennifer Lo](https://github.com/jenlo25/Jen-Lo-s-Project)                          | [Jose Tcherassi](https://github.com/jtcherassi1/Proyect2)                           |
