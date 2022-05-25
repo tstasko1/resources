@@ -39,13 +39,12 @@ Your term project website may be based on any topic that conforms to [Babson's P
 ### Things You May Not Do:
 Some items that are strictly **prohibited** are:
 
-- Adobe Flash files
-- Server-side scripts (unless you understand Per/PHP/Ruby/etc. and you are able to run the scripts in a server).
+- Server-side scripts (unless you understand Per/PHP/Ruby/etc. and you are able to run the scripts in a server)
 - JavaScript files that you have not developed
 - Web frameworks such as Django/Flask(Python), Ruby on Rails
 - CSS templates that are not customized
   - you need to customize it at least by removing all of the CSS elements that you have not used in your website pages.
-- Website templates or pages developed by any Content Management Systems (CMS) such as WordPress, Drupal or Joomla.
+- Website templates or pages developed by any Content Management Systems (CMS) such as WordPress, Joomla, or any website builders such as Shopify, Wix and Squarespace.
 
 
 ---
