@@ -24,7 +24,7 @@ Create the table shown below. You can find the picture of the products [here](im
 - The `background` property of the links is `linear-gradient(#51a9ee,#147bcd)` (same as Apple official website).
 - Save it as `hw2-1.html` under `WebTech` folder. 
 
-![hw2-1 demo](/images/hw2-1-demo.png)
+![hw2-1 demo](./images/hw2-1-demo.png)
 
 ## 2. "Table" again (20 points)
 
@@ -47,15 +47,15 @@ Create the form shown below. All styles must be done with internal CSS or extern
 - Add any background color to page, and a different background color to the form.
 - Save it as `hw2-3.html` under `WebTech` folder. 
 
-![hw2 demo](/images/hw2-3-demo.png)
+![hw2 demo](./images/hw2-3-demo.png)
 
 ## 4. *"Cloning"* Real Website Header (15 points)
 
 Replicate the header of **ONE** of the two websites: [cnn.com](https://www.cnn.com/) and [bbc.com](https://www.bbc.com/).
 
-![cnn header](/images/cnn.png)
+![cnn header](./images/cnn.png)
 
-![bbc header](/images/bbc.png)
+![bbc header](./images/bbc.png)
 
 - This is an individual work.
 - You need to write html and CSS code **from scratch**. 
