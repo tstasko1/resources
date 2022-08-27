@@ -2,9 +2,9 @@
 
 ### Class Information:
 
-- [Syllabus](syllabus_2022summer.md)
+- [Syllabus](syllabus_2022fall.md)
 - [Project](project.md)
-- [Schedule](schedule_2022summer.md) (subject to changes)
+- [Schedule](schedule_2022fall.md) (subject to changes)
 
 ### Resources
 
