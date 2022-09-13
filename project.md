@@ -54,7 +54,7 @@ To start your project, you need to create a **new public** repository on GitHub.
 
 ## Project Proposal
 
-- Due: **Monday 9/19/2022, by 11:59 PM**
+- Due: **Monday 9/26/2022, by 11:59 PM**
 - This proposal is worth **5 points**.
 
 This is a webpage that answers the following questions:
@@ -191,4 +191,4 @@ The final version of the project must have the full set of project files on GitH
 - If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
 ---
-*updated: 9/06/2022*
+*updated: 9/13/2022*
