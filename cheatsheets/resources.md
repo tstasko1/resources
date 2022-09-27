@@ -14,15 +14,13 @@ We will be working mostly with the [Chrome web browser](https://www.google.com/c
 ### Windows Text Editors
 
 - [VS Code](https://code.visualstudio.com)
-- [Sublime Text 3](https://www.sublimetext.com/)
-- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
 - [Notepad++](http://notepad-plus-plus.org/)
 
 ### Mac Text Editors
 
 - [VS Code](https://code.visualstudio.com/docs/setup/mac)
-- [Sublime Text 3](https://www.sublimetext.com/3)
-- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com)
 
 ## Tools
 
@@ -34,10 +32,12 @@ We will be working mostly with the [Chrome web browser](https://www.google.com/c
 - [Online Photo Editor](http://pixlr.com/editor/)
 
 ## Reference
-
+ 
+- [Web technology for developers - MDN](https://developer.mozilla.org/en-US/docs/Web)
+- [W3Schools](http://www.w3schools.com)
 - [Can I use...](http://caniuse.com/)
-- [Web technology for developers - Mozilla](https://developer.mozilla.org/en-US/docs/Web)
-- [W3Schools](http://www.w3schools.com).
+- [HTML Tutorials](https://htmldog.com/guides/html/)
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 - [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ## Recommended Books
