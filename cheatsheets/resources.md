@@ -38,7 +38,7 @@ We will be working mostly with the [Chrome web browser](https://www.google.com/c
 - [Can I use...](http://caniuse.com/)
 - [HTML Tutorials](https://htmldog.com/guides/html/)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
-- [Writing on GitHub / Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Writing on GitHub / Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Recommended Books
 
