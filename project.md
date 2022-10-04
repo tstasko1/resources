@@ -92,7 +92,7 @@ As you think through your website, please remember that the website must have at
 ---
 ## Project Website Planning
 
-- Due **Sunday 10/09/2022, by 11:59 PM**
+- Due **Tuesday 10/11/2022, by 11:59 PM**
 - This part is worth 3 points.
 
 ### What you need to do:
@@ -191,4 +191,4 @@ The final version of the project must have the full set of project files on GitH
 - If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
 ---
-*updated: 9/13/2022*
+*updated: 10/04/2022*
