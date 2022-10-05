@@ -81,12 +81,13 @@ As you think through your website, please remember that the website must have at
 
 ### What you need to do:
 - Purchase a domain for your project website (we will cover this part in class).
-- [*Publish your website*](https://github.com/OIM3690/resources/blob/main/slides/lec10-publish-website.pdf).
-- Test the website with any *index.html*.
+- Make sure there is _index.html_ in your project repository.
+- **Publish your website** by linking the purchased domain to GitHub pages of project repository.
+- Test the website.
 
 ### Submission:
 
-- Link your own domain to GitHub pages of project repository. Add [Description and Website](https://stackoverflow.com/a/64942409/941742) to your project repository on GitHub.
+- Add [Description and Website](https://stackoverflow.com/a/64942409/941742) to your project repository on GitHub.
 - Submit the URL of your website domain to Canvas.
 
 ---
@@ -191,4 +192,4 @@ The final version of the project must have the full set of project files on GitH
 - If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
 ---
-*updated: 10/04/2022*
+*updated: 10/05/2022*
