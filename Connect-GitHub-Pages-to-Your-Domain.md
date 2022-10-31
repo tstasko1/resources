@@ -10,9 +10,10 @@
    	    > Type: CNAME Record | Host: www | Value: *yourgithubid*.github.io. | TTL: Automatic
    7. Click Save. 
 2. GitHub Repository Pages Settings (after adding *index.html* to the repository): 
-   1. Go to GitHub porject repository page. 
-   2. Click **Settings**.
-   3. Click **Pages** on the left panel.
-   4. For **Branch** (not Source), select `main`. 
-   5. For Costom domain, enter `www.yourwebsitedomain.me` (if your domain is *yourwebsitedomain.me*.) Click **Save**.
+   1. If there is repository named ***yourgithubid*.github.io** in your GitHub profile - it is probably automatically created by NameCheap when you got domain from it - delete it.
+   2. Go to GitHub porject repository page. 
+   3. Click **Settings**.
+   4. Click **Pages** on the left panel.
+   5. For **Branch** (not Source), select `main`. 
+   6. For Costom domain, enter `www.yourwebsitedomain.me` (if your domain is *yourwebsitedomain.me*.) Click **Save**.
 3.  Enjoy!
