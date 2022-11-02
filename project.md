@@ -113,7 +113,7 @@ As you think through your website, please remember that the website must have at
 ## Project First Version
 
 - Due **Friday 10/28/2022, by 11:59 PM**
-- This first version is worth **45 points**.
+- This first version is worth **43 points**.
 
 This must be your complete website, including all of the content that you expect to have in your final submission. Note, only the content must be in place. JavaScript and jQuery elements are not required for this version. All navigation (links) must be in place. So, please DO NOT TREAT IT LIKE A FIRST DRAFT.
 
@@ -147,8 +147,8 @@ This must be your complete website, including all of the content that you expect
 
 ## Project Peer Review 
 
-- Due **Monday 11/07/2022, by 11:59 PM**
-- This deliverable is worth **4 points**.
+- Due **Saturday 11/12/2022, by 11:59 PM**
+- This deliverable is worth **6 points**.
 
 You need to provide constructive feedback to two projects of your classmates.
 
@@ -192,4 +192,4 @@ The final version of the project must have the full set of project files on GitH
 - If you are using web host/cloud, upload/update all the files to the web host/cloud.
 
 ---
-*updated: 10/05/2022*
+*updated: 11/02/2022*
