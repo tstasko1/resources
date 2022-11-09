@@ -39,6 +39,7 @@ We will be working mostly with the [Chrome web browser](https://www.google.com/c
 - [HTML Tutorials](https://htmldog.com/guides/html/)
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 - [Writing on GitHub / Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [JavaScript Tutorials](https://htmldog.com/guides/javascript/)
 
 ## Recommended Books
 
@@ -58,7 +59,7 @@ We will be working mostly with the [Chrome web browser](https://www.google.com/c
 - [Net Magazine](http://www.creativebloq.com/net-magazine)
 - [Learn to code | Codecademy](https://www.codecademy.com/)
 - [Learn by Doing - Code School](https://www.codeschool.com/)
-- [Stack Overflow](https://stackoverflow.com/)- 
+- [Stack Overflow](https://stackoverflow.com/)
 - [Learn CSS](https://web.dev/learn/css/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Selectors Game](http://flukeout.github.io)
