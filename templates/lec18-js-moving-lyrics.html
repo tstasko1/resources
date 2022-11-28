@@ -30,26 +30,25 @@
       <h3 id="lyrics">This text will move</h3>
     </div>
 
-
     <script>
-      const msgList = [
+      const LYRICS = [
         "Hey Jude, don't make it bad",
         "Take a sad song and make it better",
         "Remember to let her into your heart",
         "Then you can start to make it better",
       ];
-      const lyrics = document.getElementById("lyrics");
+      const lyricsEl = document.getElementById("lyrics");
       let p = 5;
-      let i = 0;
+      let index = 0;
 
       function move() {
-        lyrics.innerHTML = msgList[i];
-        lyrics.style.left = p + "px";
-        if (p > document.querySelector('div').clientWidth - 350) {
+        lyricsEl.innerHTML = LYRICS[index];
+        lyricsEl.style.left = p + "px";
+        if (p > document.querySelector("div").clientWidth - 350) {
           p = 5;
-          i++;
-          if (i === msgList.length) {
-            i = 0;
+          index++;
+          if (index === LYRICS.length) {
+            index = 0;
           }
         } else {
           p = p + 5;
@@ -57,8 +56,12 @@
         setTimeout(move, 50);
       }
 
-      // document.addEventListener("DOMContentLoaded", move);
-      document.querySelector("body").onload = move;
+      document.addEventListener("DOMContentLoaded", function () {
+        move();
+      });
+      //   document.querySelector("body").onload = function () {
+      //     move();
+      //   };
     </script>
   </body>
 </html>
