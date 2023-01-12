@@ -4,7 +4,7 @@
 
 - [Syllabus](syllabus_2023spring.md)
 - [Project](project.md)
-- [Schedule](schedule_2023spring) (subject to changes)
+- [Schedule](schedule_2023spring.md) (subject to changes)
 
 ### Resources
 
