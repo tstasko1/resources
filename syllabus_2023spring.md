@@ -30,7 +30,7 @@ If you need help outside of class and office hours, use Slack.
   - What: Course Slack channel
   - Used for: debugging help, clarifications, real-time discussion and random chat.
 
-## Learning Goal
+## Course Description
 
 This course is designed to provide students with a comprehensive understanding of modern web development. The goal of this class is to equip students with the skills and knowledge necessary to create and maintain dynamic, responsive, and user-friendly websites. Throughout the course, students will learn the latest web development technologies and methodologies, including but not limited to HTML5, CSS3, JavaScript, and responsive design. By the end of this course, students will have the ability to design, develop, and maintain modern websites and web applications. The course will provide a solid foundation for further studies in web development, programming, or related fields.
 
@@ -98,7 +98,7 @@ During most classes, we will complete several hands-on exercises, labeled as "ex
 
 ## Quizzes
 
-Throughout the course, there will be multiple quizzes to assess student's understanding of the material covered. These quizzes will be in different formats: some will be taken through Canvas, while others will be in-class programming problems. Most quizzes will be announced beforehand. Each quiz will be worth 2 or 3 times the value of an exercise, depending on the level of difficulty and the number of problems. It is important to note that no make-up quizzes will be given, unless you have a valid medical excuse. Missing a quiz without a valid excuse will result in a grade of zero for that quiz. We encourage you to attend every class, and reach out to the instructor if you have any questions or concerns about a quiz.
+Throughout the course, there will be multiple quizzes to assess student's understanding of the material covered. These quizzes will be in different formats: some will be taken through Canvas, while others will be in-class programming problems. Most quizzes will be announced beforehand. The grade value of each quiz will vary based on the difficulty level and number of questions. It is important to note that no make-up quizzes will be given, unless you have a valid medical excuse. Missing a quiz without a valid excuse will result in a grade of zero for that quiz. We encourage you to attend every class, and reach out to the instructor if you have any questions or concerns about a quiz.
 
 ## Graded Homework
 
