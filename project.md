@@ -47,7 +47,7 @@ It's important to note that the above examples are just suggestions and you are 
 ---
 # Getting Started
 
-To start your project, you need to create a **new public** repository on GitHub witha relevant name, such as "*WebTechProject*" or "*MyPersonalWebsite*".
+To start your project, you need to create a **new public** repository on GitHub with a relevant name, such as "*WebTechProject*" or "*MyPersonalWebsite*".
 
 # Project Proposal
 
@@ -162,4 +162,4 @@ The final version of the project must include all necessary project files and sh
 - Please refer to Canvas for the deadline of this task.
 
 ---
-*updated: 1/27/2023*
+*updated: 1/31/2023*
